@@ -3,7 +3,7 @@
 Java Backend Developer with hands-on experience in building secure and scalable backend systems using Spring Boot.
 
 ## Tech Stack
-- Java 17 / 20
+- Java 17 
 - Spring Boot, Spring Security, JPA/Hibernate
 - RESTful APIs, JWT Authentication
 - MySQL
