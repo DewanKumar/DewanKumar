@@ -26,5 +26,4 @@ Java Backend Developer with hands-on experience in building secure and scalable 
 - Docker Certification — KodeKloud
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/dewan-kumar
