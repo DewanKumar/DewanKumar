@@ -15,12 +15,12 @@ Java Backend Developer with hands-on experience in building secure and scalable 
 - Secure authentication using JWT & role-based access  
 - Account, transaction, and statement management  
 - Scheduled jobs for monthly PDF/CSV statements  
-🔗 GitHub: https://github.com/DewanKumar/banking-erp-springboot
+🔗 GitHub: https://github.com/DewanKumar/Banking-ERP-System
 
 ### Cinema Ticket Booking System (Backend)
 - REST APIs for movies, halls, shows, seat booking  
 - JWT-based authentication and authorization  
-🔗 GitHub: https://github.com/DewanKumar/cinema-ticket-booking-backend
+🔗 GitHub: https://github.com/DewanKumar/cinema-ticket-booking-system-Backend-
 
 ## Certification
 - Docker Certification — KodeKloud
