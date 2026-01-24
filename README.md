@@ -6,7 +6,7 @@ Java Backend Developer with hands-on experience in building secure and scalable 
 - Java 17 
 - Spring Boot, Spring Security, JPA/Hibernate
 - RESTful APIs, JWT Authentication
-- MySQL
+- MySQL, PostgreSQL
 - Maven, Git, Docker
 - JUnit, Postman
 
