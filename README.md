@@ -1,29 +1,75 @@
-# Hi, I'm Dewan Kumar
+# Hi, I'm Dewan Kumar 👋
 
-Java Backend Developer with hands-on experience in building secure and scalable backend systems using Spring Boot.
+Software Developer with a Computer Science degree from FAST NUCES Karachi, experienced in building web applications using modern technologies. I work across both frontend and backend, focusing on scalable systems, clean UI, and efficient data handling.
 
-## Tech Stack
-- Java 17 
-- Spring Boot, Spring Security, JPA/Hibernate
-- RESTful APIs, JWT Authentication
-- MySQL, PostgreSQL
-- Maven, Git, Docker
-- JUnit, Postman
+---
 
-## Featured Projects
-### Banking ERP & Transaction Management System
-- Secure authentication using JWT & role-based access  
-- Account, transaction, and statement management  
-- Scheduled jobs for monthly PDF/CSV statements  
-🔗 GitHub: https://github.com/DewanKumar/Banking-ERP-System
+## 🚀 Tech Stack  
 
-### Cinema Ticket Booking System (Backend)
-- REST APIs for movies, halls, shows, seat booking  
-- JWT-based authentication and authorization  
-🔗 GitHub: https://github.com/DewanKumar/cinema-ticket-booking-system-Backend-
+**Languages:**  
+Java, Python, C++, JavaScript, SQL  
 
-## Certification
-- Docker Certification — KodeKloud
+**Web & Application Development:**  
+HTML, CSS, React.js, REST APIs  
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/dewan-kumar
+**Frameworks & Technologies:**  
+Spring Boot, Hibernate (JPA), Node.js, Express.js  
+
+**Databases:**  
+MySQL, MongoDB  
+
+**Tools & Platforms:**  
+Git, Docker, Maven, Postman, IntelliJ IDEA, VS Code, Linux  
+
+**Core Concepts:**  
+Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Design, Authentication & Authorization  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 Ghar Rent – House Rental Web Application  
+- Developed a web-based platform for listing and searching rental properties  
+- Built responsive frontend using HTML, CSS, and JavaScript for better user experience  
+- Implemented property filtering, search functionality, and detailed listing views  
+- Designed backend services and database structure for managing users and property data  
+- Ensured smooth navigation and user-friendly interface for both tenants and owners
+  
+🔗 https://github.com/DewanKumar/Ghar_Rent 
+
+---
+
+### 🔹 Team Directory Application  
+- Developed a full-stack application integrating a ColdFusion (Lucee) backend with a React frontend  
+- Built REST-style APIs to retrieve employee data from a MySQL database  
+- Designed a responsive and centered UI using React with Hooks  
+- Implemented client-side search functionality for filtering employees by name  
+- Ensured seamless data communication between frontend and backend using Fetch API  
+
+**Technologies:** ColdFusion (Lucee), MySQL, React.js, Vite, JavaScript, Fetch API, CSS  
+
+🔗 https://github.com/DewanKumar/team-directory 
+
+---
+
+### 🔹 Banking ERP & Transaction Management System  
+- Developed backend services for account and transaction management using Spring Boot  
+- Designed structured database schema and ensured data consistency  
+- Implemented secure authentication and automated scheduled processes  
+- Containerized the application using Docker  
+
+🔗 https://github.com/DewanKumar/Banking-ERP-System  
+
+---
+
+## 🎯 About Me  
+- 🎓 Computer Science Graduate – FAST NUCES Karachi  
+- 💻 Interested in frontend and backend development  
+- 📈 Focused on building scalable applications and improving user experience  
+- 📚 Continuously learning and exploring new technologies  
+
+---
+
+## 📫 Connect With Me  
+- 📧 dewankumargunesani@gmail.com  
+- 🔗 https://linkedin.com/in/dewan-kumar
