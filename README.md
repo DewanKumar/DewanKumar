@@ -117,6 +117,27 @@ A Spring Boot backend project for employee payment processing and third-party AP
 
 ---
 
+## 🔹 Android Data Breach Detector
+
+Android Data Breach Detector is a modern cybersecurity-focused Android application that analyzes potential email/data breaches, stores scan history locally, and follows secure Android development practices using Kotlin and Jetpack Compose.
+
+### Features
+- Email Breach Detection Simulation
+- Room Database Integration
+- Modern Jetpack Compose UI
+- MVVM Architecture
+- Firebase Integration Support
+- Asynchronous Background Processing
+- Input Validation & Error Handling
+- Secure Local Scan History Storage
+
+### Technologies
+`Kotlin` `Jetpack Compose` `Room Database` `MVVM` `Firebase` `Material 3`
+
+🔗 https://github.com/DewanKumar/android-data-breach-detector
+
+---
+
 ## 🔹 Ghar Rent – House Rental Web Application
 
 - Developed a web-based platform for listing and searching rental properties
