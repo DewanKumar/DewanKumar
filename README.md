@@ -117,20 +117,6 @@ A Spring Boot backend project for employee payment processing and third-party AP
 
 ---
 
-## 🔹 Team Directory Application
-
-- Developed a full-stack application integrating a ColdFusion (Lucee) backend with a React frontend
-- Built REST-style APIs to retrieve employee data from a MySQL database
-- Designed responsive UI using React Hooks
-- Implemented search functionality for filtering employees by name
-
-### Technologies
-`ColdFusion` `React.js` `MySQL` `JavaScript` `Fetch API`
-
-🔗 https://github.com/DewanKumar/team-directory
-
----
-
 ## 🔹 Ghar Rent – House Rental Web Application
 
 - Developed a web-based platform for listing and searching rental properties
