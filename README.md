@@ -1,169 +1,193 @@
 # Hi, I'm Dewan Kumar 👋
 
-Software Developer with a Computer Science degree from FAST NUCES Karachi, experienced in building scalable web applications using modern backend and frontend technologies. Passionate about Spring Boot, REST APIs, system design, authentication, and clean architecture.
+**Junior Java Developer | Spring Boot Developer | Backend Engineer**
+
+I am a Junior Java Developer with a Bachelor's degree in Computer Science from FAST NUCES Karachi. I specialize in developing secure, scalable, and maintainable backend applications using Java and the Spring ecosystem. My expertise includes designing RESTful APIs, implementing authentication and authorization, integrating third-party services, and building enterprise-grade backend solutions following clean architecture and best practices.
+
+I am passionate about solving complex engineering problems, writing clean and efficient code, and continuously expanding my knowledge of modern backend technologies, distributed systems, and software architecture.
 
 ---
 
-# 🚀 Tech Stack
+# 💼 Technical Skills
 
-## Languages
+## Programming Languages
 - Java
 - Python
-- C++
 - JavaScript
 - SQL
+- C++
 
 ## Backend Development
 - Spring Boot
+- Spring MVC
 - Spring Security
-- Hibernate (JPA)
-- Node.js
-- Express.js
-- REST APIs
+- Spring Data JPA (Hibernate)
+- RESTful API Development
+- JWT Authentication
 
 ## Frontend Development
-- React.js
-- HTML
-- CSS
+- Angular
+- HTML5
+- CSS3
 - JavaScript
 
 ## Databases
 - MySQL
 - MongoDB
+- PostgreSQL
 
-## Tools & Platforms
-- Git
+## DevOps & Tools
+- Git & GitHub
 - Docker
 - Maven
 - Postman
 - IntelliJ IDEA
-- VS Code
+- Visual Studio Code
 - Linux
 
-## Core Concepts
+## Software Engineering
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Authentication & Authorization
 - Role-Based Access Control (RBAC)
 - Database Design
-- Asynchronous Processing
+- Clean Architecture
+- Design Patterns
+- Asynchronous Programming
 - Exception Handling
 - Scheduling
-- Logging Systems
+- Logging & Monitoring
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🔹 Role-Based Access Control (RBAC) API
 
-A Spring Boot RBAC (Role-Based Access Control) project that provides secure authentication and authorization using JWT. The project includes employee management APIs, role and permission handling, logging, scheduling, asynchronous processing, exception handling, and advanced Spring Boot concepts.
+A comprehensive enterprise-grade Spring Boot application implementing secure authentication and authorization using JWT and dynamic Role-Based Access Control (RBAC). The project demonstrates scalable backend architecture and modern Java development practices.
 
-### Features
+### Key Features
 - JWT Authentication & Authorization
-- Role-Based Access Control (RBAC)
-- Employee Management APIs
+- Dynamic Role-Based Access Control
+- Employee Management System
 - Role & Permission Management
 - Spring Security Integration
-- Pagination, Searching & Sorting
-- Specification API
-- Interface-based & Class-based Projection
+- RESTful APIs
+- Pagination, Filtering & Sorting
+- JPA Specification API
+- Interface & Class-based Projections
 - Global Exception Handling
 - Log4j2 Logging
 - Scheduler Implementation
-- CompletableFuture Async Processing
+- Asynchronous Processing with CompletableFuture
 - SMTP Email Integration
 - Third-party API Integration
 
-### Technologies
+**Tech Stack**
+
 `Java` `Spring Boot` `Spring Security` `Hibernate` `JWT` `MySQL` `Maven`
 
-🔗 https://github.com/DewanKumar/role-based-access-control-api
+🔗 **Repository:** https://github.com/DewanKumar/role-based-access-control-api
 
 ---
 
 ## 🔹 Employee Payment Processing System
 
-A Spring Boot backend project for employee payment processing and third-party API integration. The project demonstrates REST APIs, WebClient integration, multiple payment service implementations using `@Primary` and `@Qualifier`, DTO mapping, and global exception handling.
+A Spring Boot backend application demonstrating secure payment processing and third-party API integration using Spring WebClient and clean service architecture.
 
-### Features
+### Key Features
 - Employee Payment APIs
 - Third-party API Integration
-- WebClient Integration
+- Spring WebClient
 - DTO Mapping
 - Global Exception Handling
-- Custom API Exceptions
-- `@Primary` and `@Qualifier`
-- Multiple Payment Service Implementations
+- Multiple Service Implementations
+- @Primary & @Qualifier
+- Clean Layered Architecture
 
-### Technologies
+**Tech Stack**
+
 `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API` `WebClient`
 
-🔗 https://github.com/DewanKumar/employee-payment-processing-system
+🔗 **Repository:** https://github.com/DewanKumar/employee-payment-processing-system
 
 ---
 
 ## 🔹 Banking ERP & Transaction Management System
 
-- Developed backend services for account and transaction management using Spring Boot
-- Designed structured database schema and ensured data consistency
-- Implemented secure authentication and automated scheduled processes
-- Containerized the application using Docker
+A backend banking system developed using Spring Boot for managing customer accounts, financial transactions, and secure authentication.
 
-### Technologies
+### Key Features
+- Account Management
+- Transaction Processing
+- Secure Authentication
+- Scheduled Background Tasks
+- Docker Containerization
+- Database Management
+
+**Tech Stack**
+
 `Java` `Spring Boot` `MySQL` `Docker`
 
-🔗 https://github.com/DewanKumar/Banking-ERP-System
+🔗 **Repository:** https://github.com/DewanKumar/Banking-ERP-System
 
 ---
 
 ## 🔹 Android Data Breach Detector
 
-Android Data Breach Detector is a modern cybersecurity-focused Android application that analyzes potential email/data breaches, stores scan history locally, and follows secure Android development practices using Kotlin and Jetpack Compose.
+A modern Android application that simulates email breach detection while securely storing scan history using Room Database and MVVM architecture.
 
-### Features
-- Email Breach Detection Simulation
-- Room Database Integration
-- Modern Jetpack Compose UI
+### Key Features
+- Email Breach Detection
+- Room Database
+- Jetpack Compose UI
 - MVVM Architecture
-- Firebase Integration Support
-- Asynchronous Background Processing
-- Input Validation & Error Handling
-- Secure Local Scan History Storage
+- Firebase Integration
+- Background Processing
 
-### Technologies
-`Kotlin` `Jetpack Compose` `Room Database` `MVVM` `Firebase` `Material 3`
+**Tech Stack**
 
-🔗 https://github.com/DewanKumar/android-data-breach-detector
+`Kotlin` `Jetpack Compose` `Room Database` `MVVM` `Firebase`
+
+🔗 **Repository:** https://github.com/DewanKumar/android-data-breach-detector
 
 ---
 
-## 🔹 Ghar Rent – House Rental Web Application
+## 🔹 Ghar Rent – House Rental Platform
 
-- Developed a web-based platform for listing and searching rental properties
-- Implemented property filtering and search functionality
-- Designed backend services and database structure
-- Built responsive frontend for improved user experience
+A responsive web application for listing, searching, and managing rental properties.
 
-### Technologies
+### Key Features
+- Property Listings
+- Search & Filtering
+- Responsive User Interface
+- Database Integration
+
+**Tech Stack**
+
 `HTML` `CSS` `JavaScript` `MySQL`
 
-🔗 https://github.com/DewanKumar/Ghar_Rent
+🔗 **Repository:** https://github.com/DewanKumar/Ghar_Rent
 
 ---
 
-# 🎯 About Me
+# 👨‍💻 Professional Summary
 
-- 🎓 Computer Science Graduate — FAST NUCES Karachi
-- 💻 Backend-Focused Software Developer
-- 🚀 Interested in scalable backend systems and APIs
-- 📚 Continuously learning advanced Spring Boot concepts and system design
-- 🔍 Passionate about clean architecture and problem solving
+- 💼 Junior Java Developer
+- ☕ Java & Spring Boot Enthusiast
+- 🔐 Experienced in Spring Security, JWT Authentication & RBAC
+- 🌐 REST API Design & Development
+- 🗄️ Database Design & Optimization
+- 🐳 Docker & Version Control
+- 📚 Currently learning Angular, Microservices, System Design, and Cloud Technologies
+- 🚀 Passionate about building scalable, secure, and high-performance backend applications
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-- 📧 Email: dewankumargunesani@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/dewan-kumar
-- 💻 GitHub: https://github.com/DewanKumar
+📧 **Email:** dewankumargunesani@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/dewan-kumar
+
+💻 **GitHub:** https://github.com/DewanKumar
